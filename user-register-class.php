@@ -5,10 +5,10 @@ class register {
 
 	//Simple configuration for Global
 	
-	public $db_id 	= 'DATABASE_ID';
-	public $db_pass = 'DATABASE_PASSWORD';
-	public $db_base = 'DATABASE';
-	public $db_host = 'DATABASE_HOST';
+	public $db_id 	= 'sa';
+	public $db_pass = 'game0hack';
+	public $db_base = 'RF_User';
+	public $db_host = '139.99.34.219';
 
 	function validate($id,$email,$pass){
 
